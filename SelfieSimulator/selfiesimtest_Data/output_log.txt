@@ -1,0 +1,50 @@
+Initialize engine version: 5.6.4f1 (ac7086b8d112)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 630 (ID=0x591b)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   21.20.16.4627
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\sela\Documents\SelfieSimulator\selfiesimtest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\sela\Documents\SelfieSimulator\selfiesimtest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\sela\Documents\SelfieSimulator\selfiesimtest_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\sela\Documents\SelfieSimulator\selfiesimtest_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\sela\Documents\SelfieSimulator\selfiesimtest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\sela\Documents\SelfieSimulator\selfiesimtest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\sela\Documents\SelfieSimulator\selfiesimtest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\sela\Documents\SelfieSimulator\selfiesimtest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\sela\Documents\SelfieSimulator\selfiesimtest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\sela\Documents\SelfieSimulator\selfiesimtest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\sela\Documents\SelfieSimulator\selfiesimtest_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\sela\Documents\SelfieSimulator\selfiesimtest_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.029 seconds
+Platform assembly: C:\Users\sela\Documents\SelfieSimulator\selfiesimtest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\sela\Documents\SelfieSimulator\selfiesimtest_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The tree palmtree1 (1) must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree palmtree1 (1) must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+UnloadTime: 1.378461 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 9a44 -> priority: 1 
+  Thread -> id: 668c -> priority: 1 
+  Thread -> id: 2a18 -> priority: 1 
+  Thread -> id: d60 -> priority: 1 
+npc (8) POAST Beach Club Shbark
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+npc (3) POAST Temple of the Black Giant Floating Space Hand
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_scripts\AICharacterControl.cs">
+    <Files>
+      <File FileName="Assets\_scripts\selfieController.cs" Line="1" Column="1" />
+      <File FileName="Assets\copyAnimParams.cs" Line="1" Column="1" />
+      <File FileName="Assets\_scripts\emojiController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Cameras\Scripts\AutoCam.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Cameras\Scripts\ProtectCameraFromWallClip.cs" Line="1" Column="1" />
+      <File FileName="Assets\_scripts\ThirdPersonCharacter.cs" Line="197" Column="9" />
+      <File FileName="Assets\_scripts\npc.cs" Line="78" Column="1" />
+      <File FileName="Assets\_scripts\action.cs" Line="45" Column="5" />
+      <File FileName="Assets\_scripts\expressionController.cs" Line="1" Column="1" />
+      <File FileName="Assets\zone.cs" Line="1" Column="1" />
+      <File FileName="Assets\_scripts\AICharacterControl.cs" Line="33" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
